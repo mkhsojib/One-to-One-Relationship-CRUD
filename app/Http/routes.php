@@ -11,6 +11,21 @@
 |
 */
 
+use App\Address;
+use App\User;
+
 Route::get('/', function () {
     return view('welcome');
+});
+
+
+Route::get('/insert', function (){
+
+   $user =  User::findOrFail(1);
+
+   $address = New Address(['name'=>'uttarkhan dhaka 1230']);
+
+   $user->address()->save($address);
+
+
 });

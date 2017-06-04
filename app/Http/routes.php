@@ -19,13 +19,22 @@ Route::get('/', function () {
 });
 
 
-Route::get('/insert', function (){
+Route::get('/insert', function () {
 
-   $user =  User::findOrFail(1);
+    $user = User::findOrFail(1);
 
-   $address = New Address(['name'=>'uttarkhan dhaka 1230']);
+    $address = New Address(['name' => 'uttarkhan dhaka 1230']);
 
-   $user->address()->save($address);
+    $user->address()->save($address);
 
 
+});
+
+Route::get('/update', function () {
+
+    $address = Address::whereUserId(1)->first();
+
+    $address->name = "this is new address";
+
+    $address->save();
 });

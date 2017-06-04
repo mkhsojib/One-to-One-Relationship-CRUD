@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b52dac48-6164-4cfe-a68b-166c07bb61b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Address.php" afterPath="$PROJECT_DIR$/app/Address.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+            <state relative-caret-position="307">
+              <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
               <folding>
                 <element signature="e#394#410#0#PHP" expanded="true" />
               </folding>
@@ -82,8 +81,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="y" value="46" />
+    <option name="x" value="10" />
+    <option name="y" value="47" />
     <option name="width" value="1440" />
     <option name="height" value="824" />
   </component>
@@ -291,15 +290,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496587381999</updated>
-      <workItem from="1496587384044" duration="2404000" />
+      <workItem from="1496587384044" duration="2859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2404000" />
+    <option name="totallyTimeSpent" value="2859000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="46" width="1440" height="824" extended-state="0" />
+    <frame x="10" y="47" width="1440" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -368,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        <state relative-caret-position="307">
+          <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="e#394#410#0#PHP" expanded="true" />
           </folding>
